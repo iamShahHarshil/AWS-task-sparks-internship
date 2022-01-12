@@ -1,5 +1,6 @@
 # AWS: Steps to create simple EC2 instance 
-
+#### Go to following DNS name to access my web page I created using load balancer --> [MyWebpage](http://lb-test-101-732610162.us-east-2.elb.amazonaws.com:8080/)
+#### Link to video demo --> [Launch instance](https://drive.google.com/file/d/1bGa3RKAJSlPoJ4yQymJtHGGV-LqGdHVv/view?usp=sharing)
 First create AWS free tier account. After creating account, go to console.aws.amazon.com
 
 ## I am currently in Ohio region, i.e. us-east2 region
@@ -65,4 +66,4 @@ Launch Instance
 
 ![Screenshot 2022-01-12 152744](https://user-images.githubusercontent.com/67470042/149118118-58f88457-3e6f-4bfd-8ebe-43d239d39c09.png)
 
-#### Go to following DNS name to access my web page I created using load balancer --> [MyWebpage](http://lb-test-101-732610162.us-east-2.elb.amazonaws.com:8080/)
+
