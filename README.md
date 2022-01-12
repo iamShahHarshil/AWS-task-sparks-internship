@@ -32,7 +32,7 @@ I will leave rest to default.
 
 ![Screenshot 2022-01-12 145646](https://user-images.githubusercontent.com/67470042/149103388-6f273fd8-7e0f-42c1-afd1-f164be0bcd08.png)
 
-Now on same page at the very bottom, I will add user data (startup script) [apache-server.sh](https://www.netflix.com/browse) file. This file will be executed when the instance is launched for the very first time. So I want to configure apache webserver that will host an index.php file. Instead of uploading file, you can directly copy and paste your commands as text.
+Now on same page at the very bottom, I will add user data (startup script) [apache-server.sh](https://github.com/iamShahHarshil/AWS-task-sparks-internship/blob/master/apache-server.sh) file. This file will be executed when the instance is launched for the very first time. So I want to configure apache webserver that will host an index.php file. Instead of uploading file, you can directly copy and paste your commands as text.
 
 ![Screenshot 2022-01-12 150534](https://user-images.githubusercontent.com/67470042/149108824-98f249a8-8a73-46fa-86c2-17bf2c2b9471.png)
 
